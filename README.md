@@ -23,12 +23,10 @@
 </div>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CengizhanKARAGOZ&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CengizhanKARAGOZ&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>  
+![Cengizhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CengizhanKARAGOZ&show_icons=truehide_border=true&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CengizhanKARAGOZ&layout=compact&theme=tokyonight)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=CengizhanKARAGOZ&&style=flat-square" align="center" />
 </div>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CengizhanKARAGOZ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
