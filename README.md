@@ -30,3 +30,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=CengizhanKARAGOZ&&style=flat-square" align="center" />
 </div>  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CengizhanKARAGOZ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
