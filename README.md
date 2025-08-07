@@ -20,7 +20,7 @@
 </div>  
 
 ## Github Stats  
-![Cengizhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CengizhanKARAGOZ&show_icons=truehide_border=true&layout=compact&theme=tokyonight)  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CengizhanKARAGOZ?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CengizhanKARAGOZ&layout=compact&theme=tokyonight)
 
 <div align="center">
